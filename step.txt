@@ -1,0 +1,10 @@
+git init
+git remote adđ origin https://github.com/Ngoc924/demo_git_bs58.git 
+
++đẩy từ local lên remote
+git add -A 
+git commit -m "tao trang home.html"(tạo version)
+++đẩy lần đầu
+ git push -u origin master (đưa cái commit đó lên online)
+++đẩy lền 2 trở đi
+git push 
